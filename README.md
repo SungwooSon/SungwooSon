@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+서울시 마포구에 거주하는 8년차 개발자 손성우입니다.
+
+Java / Spring / JPA / MySQL 등을 이용하여 Restful API를 
+Test를 활용하기 좋은 설계와 MSA, Docker, 
+
+
+
 <!--
 **SungwooSon/SungwooSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
